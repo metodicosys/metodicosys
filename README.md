@@ -1,4 +1,4 @@
-# ¡Hola! Soy @metodio 👋
+# ¡Hola! - @metodio 👋
 
 ### QA Automation Engineer | Mobile, Web, APIs & AI Testing 🤖
 
