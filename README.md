@@ -24,6 +24,8 @@ Bienvenido a mi espacio de código abierto. Aquí centralizo **demos reales y ar
 | **[appiumframeworksurgir](https://github.com/metodicosys/appiumframeworksurgir)** | Automatización del flujo de creación de solicitud de crédito móvil. | `Java` `Appium` `Maven` |
 | **[demo-mobile-apk-meto](https://github.com/metodicosys/demo-mobile-apk-meto)** | Arquitectura base para pruebas nativas en Android utilizando Page Object Model. | `Java` `Appium` `Android` |
 | **[demo-web-mobile-meto](https://github.com/metodicosys/demo-web-mobile-meto)** | Demos para automatización de aplicaciones web y móviles. | `Java` `Selenium` `Appium` |
+| **[demo-playwright-meto](https://github.com/metodicosys/demo-playwright-meto)** | Estructura básica de Playwright para iniciar proyectos de pruebas automatizadas. | `Playwright` `JavaScript` |
+| **[demo-playwright-test](https://github.com/metodicosys/demo-playwright-test)** | Ejemplos adicionales de pruebas automatizadas con Playwright. | `Playwright` `JavaScript` |
 | **[automatizedTests](https://github.com/metodicosys/automatizedTests)** | Pruebas automatizadas con Selenium y Java para una aplicación empresarial. | `Java` `Selenium` |
 | **[github_action](https://github.com/metodicosys/github_action)** | Implementación de pipelines de integración continua para ejecución automática de pruebas. | `GitHub Actions` `CI/CD` |
 | **[meto_modeloLocal_IA_LN](https://github.com/metodicosys/meto_modeloLocal_IA_LN)** | Laboratorio práctico con modelos de lenguaje locales y procesamiento de lenguaje natural. | `Python` `Jupyter` `IA` |
@@ -39,8 +41,6 @@ Bienvenido a mi espacio de código abierto. Aquí centralizo **demos reales y ar
 
 ### 🧾 Recursos y Laboratorios
 
-* [demo-playwright-meto](https://github.com/metodicosys/demo-playwright-meto): estructura básica de Playwright.
-* [demo-playwright-test](https://github.com/metodicosys/demo-playwright-test): ejemplos adicionales de pruebas con Playwright.
 * [datatestingmeto](https://github.com/metodicosys/datatestingmeto): recursos y ejemplos relacionados con pruebas basadas en datos.
 * [myproject_praxthon_ia](https://github.com/metodicosys/myproject_praxthon_ia): primer proyecto de IA con procesamiento de lenguaje natural.
 * [skills-getting-started-with-github-copilot](https://github.com/metodicosys/skills-getting-started-with-github-copilot): ejercicio de inicio con GitHub Copilot.
