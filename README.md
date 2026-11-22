@@ -1,4 +1,4 @@
-# ¡Hola! Soy @metodicosys 👋
+# ¡Hola! Soy @metodio 👋
 
 ### QA Automation Engineer | Mobile, Web, APIs & AI Testing 🤖
 
@@ -19,13 +19,13 @@ Bienvenido a mi espacio de código abierto. Aquí centralizo **demos reales y ar
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[demo-karate-meto](https://github.com/metodicosys/demo-karate-meto)** | Demo con estructura base para proyectos de pruebas automatizadas usando Karate DSL. | `Karate DSL` `JavaScript` |
 | **[KARTIQUE--AI-Powered-Smart-Shopping-Assistant](https://github.com/metodicosys/KARTIQUE--AI-Powered-Smart-Shopping-Assistant)** | Proyecto para evaluar asistentes inteligentes mediante DeepEval y Promptfoo. | `Python` `RAG` `AI Evaluation` |
+| **[demo-karate-meto](https://github.com/metodicosys/demo-karate-meto)** | Demo con estructura base para proyectos de pruebas automatizadas usando Karate DSL. | `Karate DSL` `JavaScript` `Java` |
 | **[appiumframeworksurgir](https://github.com/metodicosys/appiumframeworksurgir)** | Automatización del flujo de creación de solicitud de crédito móvil. | `Java` `Appium` `Maven` |
 | **[demo-mobile-apk-meto](https://github.com/metodicosys/demo-mobile-apk-meto)** | Arquitectura base para pruebas nativas en Android utilizando Page Object Model. | `Java` `Appium` `Android` |
 | **[demo-web-mobile-meto](https://github.com/metodicosys/demo-web-mobile-meto)** | Demos para automatización de aplicaciones web y móviles. | `Java` `Selenium` `Appium` |
-| **[demo-playwright-meto](https://github.com/metodicosys/demo-playwright-meto)** | Estructura básica de Playwright para iniciar proyectos de pruebas automatizadas. | `Playwright` `JavaScript` |
-| **[demo-playwright-test](https://github.com/metodicosys/demo-playwright-test)** | Ejemplos adicionales de pruebas automatizadas con Playwright. | `Playwright` `JavaScript` |
+| **[demo-playwright-meto](https://github.com/metodicosys/demo-playwright-meto)** | Estructura básica de Playwright para iniciar proyectos de pruebas automatizadas. | `Playwright` `TypeScript` |
+| **[demo-playwright-test](https://github.com/metodicosys/demo-playwright-test)** | Ejemplos adicionales de pruebas automatizadas con Playwright. | `Playwright` `TypeScript` |
 | **[automatizedTests](https://github.com/metodicosys/automatizedTests)** | Pruebas automatizadas con Selenium y Java para una aplicación empresarial. | `Java` `Selenium` |
 | **[github_action](https://github.com/metodicosys/github_action)** | Implementación de pipelines de integración continua para ejecución automática de pruebas. | `GitHub Actions` `CI/CD` |
 | **[meto_modeloLocal_IA_LN](https://github.com/metodicosys/meto_modeloLocal_IA_LN)** | Laboratorio práctico con modelos de lenguaje locales y procesamiento de lenguaje natural. | `Python` `Jupyter` `Ollama` |
